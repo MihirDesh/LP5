@@ -44,7 +44,7 @@ void printArray(int arr[], int n){
 int main(){
     // Set up variables
     int n = 10;
-    int arr[n];
+    int arr[n]; 
     int brr[n];
     double start_time, end_time;
 
